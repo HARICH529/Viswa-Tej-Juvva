@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', () => {
     organization: "Council for Skills and Competencies (CSC India)",
     startDate: "04-05-2026",
     endDate: "27-06-2026",
-    certId: "CSCIndia-T4J8A9B2",
+    certId: "CSCIndia-T4J8R6J3",
     issueDate: "01-07-2026"
   };
 
@@ -302,7 +302,7 @@ document.addEventListener('DOMContentLoaded', () => {
     ctx.fillStyle = "#0F172A";
     ctx.font = "bold 14px 'Inter', sans-serif";
     ctx.textAlign = "center";
-    ctx.fillText("Shri. V. Sambasiva", x + 50, y + 42);
+    ctx.fillText("Shri. Y Sandesh", x + 50, y + 42);
 
     ctx.fillStyle = "#64748B";
     ctx.font = "500 12px 'Inter', sans-serif";
